@@ -1,9 +1,9 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "build": 1,
     "date": "2025-03-22",
-    "url": "https://github.com/klim4ik2912/dance/releases/download/v1.4.0/dance-1.4.0-1.zip",
+    "url": "https://github.com/klim4ik2912/dance/releases/download/v1.4.1/dance-1.4.1-1.zip",
     "size": 12895818,
-    "checksum": "37833b1557ede1a3840f2eb8c1cad992696763de43d85c92c6356a3c68ea12a3",
-    "changelog": ["Полностью обновлена система обновлений","Улучшена стабильность работы","Исправлена загрузка релизов"]
+    "checksum": "7f82cba7fb073a6224b55ebfea84ffb320d0698bf18f101ee31c78b3bebf5bb4",
+    "changelog": ["Улучшена производительность","Обновлен интерфейс","Исправлены мелкие ошибки"]
 }
